@@ -1,4 +1,4 @@
-# 🌤️ Previsão do Tempo em Python
+# Previsão do Tempo em Python
 
 Um script simples e direto via terminal (CLI) que consome a API do OpenWeatherMap para trazer dados climáticos em tempo real de qualquer cidade do mundo.
 
